@@ -1,9 +1,7 @@
 
 
 <div align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=More+And+More+Better!" alt="Typing SVG" />
- </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22more+and+more+better!%22)" alt="Typing SVG" /></a>
 </div>
 
 
@@ -14,7 +12,9 @@
 
 - 📝 I regularly write articles on [https://www.yuque.com/xinyang424](https://www.yuque.com/xinyang424)
 
-- 📫 How to reach me **xinyang424.com**
+- 📫 How to reach me **xinyang424@gmail.com**
+
+- ⭐ I gave Star for this projects [My stars](https://github.com/xinyang424?tab=stars)
 
 
 
